@@ -1,2 +1,1 @@
-# hcx
-first code
+第一次尝试使用
